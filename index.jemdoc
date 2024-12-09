@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{index.html}
+
+{{<br>}} 
+= K Sandesh Kamath 
+
+~~~
+{}{img_left}{images/sandesh-photo.png}{alt text}{225px}{275px}{}
+K Sandesh Kamath\n
+Post Doctoral Researcher\n
+Computer Vision Center(CVC), [http://lamp.cvc.uab.es/ LAMP Group]\n
+UAB, Barcelona, Spain\n
+Contact: [mailto:sandesh.kamath@cvc.uab.es Email], [https://github.com/ksandeshk/ GitHub]
+
+~~~
+
+== Short Bio
+Currently working in LAMP, CVC hosted by [https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en Dr. Joost Van De Weijer] and [https://scholar.google.com/citations?user=zdIW07oAAAAJ&hl=en Dr. Bogdan Raducanu] on problems in Continual Learning. Previously was a Post Doctoral Researcher with [https://people.iith.ac.in/vineethnb/ Prof Vineeth N Balasubramanian], IIT, Hyderabad sponsored by Microsoft Research and worked on problems on robustness of explainability methods. Obtained my PhD from CMI, Chennai guided by Prof [https://www.cmi.ac.in/~kv/ K. V. Subrahmanyam] and [https://www.microsoft.com/en-us/research/people/amitdesh/ Dr. Amit Despande] from Microsoft Research, India. My thesis was based on problems in Adversarial Robustness of Deep Learning Models.
+
+== Research Interests
+- Adversarial Robustness
+- Interpretable ML
+- Continual Learning
+- Generative AI
+- Geometric Deep Learning
+
+== Selected Publications
+- Dipam Goswami, Albin Soutif--Cormerais, Yuyang Liu, Sandesh Kamath, Bartłomiej Twardowski, Joost van de Weijer, Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning, IEEE/CVF Conference on Computer Vision and Pattern Recognition, (*CVPR'24*). [https://openaccess.thecvf.com/content/CVPR2024/html/Goswami_Resurrecting_Old_Classes_with_New_Data_for_Exemplar-Free_Continual_Learning_CVPR_2024_paper.html html] [https://arxiv.org/pdf/2405.19074 pdf]
+- Sandesh Kamath, Sankalp Mittal, Amit Deshpande, Vineeth N Balasubramanian, Rethinking Robustness of Model Attributions, The 38th Annual AAAI Conference on Artificial Intelligence, (*AAAI'24*). [https://ojs.aaai.org/index.php/AAAI/article/view/28047 html] [https://arxiv.org/pdf/2312.10534 pdf] [https://github.com/ksandeshk/LENS code]
+- Sandesh Kamath, Amit Deshpande, K V Subrahmanyam, Vineeth N Balasubramanian, Can we have it all? On the Trade-off between Spatial and Adversarial Robustness of Neural Networks, Conference on Neural Information Processing Systems (*NeurIPS'21*) pg 27462-27474. [https://proceedings.neurips.cc/paper_files/paper/2021/hash/e6ff107459d435e38b54ad4c06202c33-Abstract.html html] [https://arxiv.org/pdf/2002.11318 pdf] [https://github.com/ksandeshk/spatial-vs-robustness code]
+- Sandesh Kamath, Amit Deshpande, K V Subrahmanyam, Vineeth N Balasubramanian, Universalization of any adversarial attack using very few test examples - CODS-COMAD 2022 *(Best Paper Award, Research Track)*, pages 72-80. [https://dl.acm.org/doi/abs/10.1145/3493700.3493718 html] [https://arxiv.org/abs/2005.08632 pdf] [https://github.com/ksandeshk/svd-uap code]
+
+== Professional Service
+- Reviewer : ECML-PKDD 2020, BMVC 2020,2021,2022,2023,*2024(Outstanding Reviewer)*, *CVPR* 2022,2023,2024, ECCV 2022,2024, ACCV 2022,2024, IEEE CAI 2023,2024, ICCV 2023, WACV 2024,2025, *AAAI* 2025, SafeGenAI@NeurIPS 2024
+
+== Teaching
+- CSN 110: Introduction to Computer Science & Engineering (IIT Delhi), CSL 101: Introduction to Computers and Programming (IIT Delhi), Machine Learning (CMI, Chennai), Optimization (CMI, Chennai), C5 Visual Recognition(Continual Learning Module)(Master in Computer Vision, Barcelona)
+- Tutor : NCM IST Mathematics for Computer Science (2018) 
+
+== Awards
+- Microsoft Research PostDoctoral Fellowship (2020-2022)
+- Best Paper Award, Research track, CODS-COMAD-2022
+
+== Education
+- 2014-2020 - PhD - Chennai Mathematical Institute (CMI), Chennai
+- 2009-2011 - MTech - Indian Institute of Technology (IITD), Delhi

@@ -6,7 +6,8 @@
 - Sandesh Kamath, Albin Soutif-Cormerais, Joost van de Weijer, Bogdan Raducanu, The Expanding Scope of the Stability Gap: Unveiling its Presence in Joint Incremental Learning of Homogeneous Tasks, CVPR 2024 Workshop on ``Continual Learning in Computer Vision'', (*CVPR-W'24*). [https://sites.google.com/view/clvision2024/call-for-papers/accepted-papers html] [https://arxiv.org/pdf/2405.19074 pdf]
 
 === Generative AI
-- Xide Xu, Muhammad Atif Butt, Sandesh Kamath, Bogdan Raducanu, Privacy Protection in Personalized Diffusion Models via Targeted Cross-Attention Adversarial Attack - NeurIPS 2024 Workshop on ``Safe Generative AI''.
+- Xide Xu, Sandesh Kamath, Muhammad Atif Butt, Bogdan Raducanu, An /h/-space Based Adversarial Attack for Protection Against Few-shot Personalization, ACM Multimedia, (*ACM MM '25*). [https://arxiv.org/pdf/2507.17554 pdf]
+- Xide Xu, Muhammad Atif Butt, Sandesh Kamath, Bogdan Raducanu, Privacy Protection in Personalized Diffusion Models via Targeted Cross-Attention Adversarial Attack - NeurIPS 2024 Workshop on ``Safe Generative AI''. [https://arxiv.org/pdf/2411.16437 pdf]
 
 === Interpretable ML
 - Sandesh Kamath, Sankalp Mittal, Amit Deshpande, Vineeth N Balasubramanian, Rethinking Robustness of Model Attributions, The 38th Annual AAAI Conference on Artificial Intelligence, (*AAAI'24*). [https://ojs.aaai.org/index.php/AAAI/article/view/28047 html] [https://arxiv.org/pdf/2312.10534 pdf] [https://github.com/ksandeshk/LENS code]
